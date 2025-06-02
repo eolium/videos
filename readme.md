@@ -9,46 +9,46 @@ Ce dossier contient l'ensemble des ressources utilisées dans mes tutoriels, ain
 
 - Windows
 
-    [ ] - Installation d'un windows 10/11 neuf
+    - [] Installation d'un windows 10/11 neuf
         + atlas os
         + tour rapide de windows
 
-    [ ] - Paramètres windows
+    - [] Paramètres windows
 
-    [ ] - Scanner un document
+    - [] Scanner un document
 
-    [ ] - Raccourcis
+    - [] Raccourcis
 
 
 - LibreOffice
 
-    [ ] - Utilisation de Writer
+    - [] Utilisation de Writer
     
-        [ ] - Publipostage
+        - [] Publipostage
 
-    [ ] - Utilisation de Calc
+    - [] Utilisation de Calc
 
-    [ ] - Utilisation de Impress
+    - [] Utilisation de Impress
 
-    [ ] - Raccourcis
+    - [] Raccourcis
 
 
 - Gosync
 
-    [ ] - Création d'un nouveau fichier
+    - [] Création d'un nouveau fichier
 
-    [ ] - Tâche récurrente
+    - [] Tâche récurrente
 
 
 - Firefox
 
-    [ ] - Paramètres / Adblock
+    - [] Paramètres / Adblock
 
-    [ ] - Raccourcis
+    - [] Raccourcis
 
 - Thunderbird
 
-    [ ] - Paramètres/Connection à un compte
+    - [] Paramètres/Connection à un compte
 
 
 - Keepass
@@ -62,8 +62,8 @@ Ce dossier contient l'ensemble des ressources utilisées dans mes tutoriels, ain
 
 - Programmation
 
-    [ ] - Batch
+    - [] Batch
 
-    [ ] - Bash
+    - [] Bash
 
-    [ ] - Python
+    - [] Python
