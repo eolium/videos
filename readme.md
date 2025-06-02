@@ -35,7 +35,7 @@ Ce dossier contient l'ensemble des ressources utilisées dans mes tutoriels, ain
 
 - **Gosync**
 
-    - [ ] Création d'un nouveau fichier
+    - [ ] Création d'un nouveau fichier exécutable
 
     - [ ] Tâche récurrente
 
