@@ -7,7 +7,7 @@ Ce dossier contient l'ensemble des ressources utilisées dans mes tutoriels, ain
 
 ## Objectifs
 
-- Windows
+- **Windows**
 
     - [ ] Installation d'un windows 10/11 neuf
         + atlas os
@@ -20,7 +20,7 @@ Ce dossier contient l'ensemble des ressources utilisées dans mes tutoriels, ain
     - [ ] Raccourcis
 
 
-- LibreOffice
+- **LibreOffice**
 
     - [ ] Utilisation de Writer
 
@@ -33,34 +33,34 @@ Ce dossier contient l'ensemble des ressources utilisées dans mes tutoriels, ain
     - [ ] Raccourcis
 
 
-- Gosync
+- **Gosync**
 
     - [ ] Création d'un nouveau fichier
 
     - [ ] Tâche récurrente
 
 
-- Firefox
+- **Firefox**
 
     - [ ] Paramètres / Adblock
 
     - [ ] Raccourcis
 
-- Thunderbird
+- **Thunderbird**
 
     - [ ] Paramètres/Connection à un compte
 
 
-- Keepass
+- **Keepass**
 
-- Vlc
+- **Vlc**
     - Lancer un film
 
     - Lancer un serveur de musiques
 
     - Lancer une capture vidéo
 
-- Programmation
+- **Programmation**
 
     - [ ] Batch
 
